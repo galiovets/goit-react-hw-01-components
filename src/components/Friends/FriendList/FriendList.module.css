@@ -1,0 +1,3 @@
+.friendList {
+  composes: statistics from '../../Statistics/StatisticsList/StatisticsList.module.css';
+}

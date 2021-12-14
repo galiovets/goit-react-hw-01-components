@@ -1,0 +1,27 @@
+.statistics {
+  text-align: center;
+  line-height: 1.14;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 20px;
+  border: 1px solid rgba(50, 50, 250, 0.18);
+  box-shadow: 8px 8px 19px 0px rgba(34, 60, 80, 0.1);
+}
+
+.title {
+  font-size: 19px;
+  font-weight: 500;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid rgba(129, 4, 123, 0.12);
+}
+
+.statList {
+  display: flex;
+  font-weight: 400;
+  justify-content: space-around;
+}

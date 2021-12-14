@@ -1,0 +1,30 @@
+.transactionHistory {
+  composes: statistics from '../Statistics/StatisticsList/StatisticsList.module.css';
+  width: 100%;
+}
+
+.tableHead {
+  position: relative;
+}
+
+.tableHeadList::after {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  content: '';
+  background-color: rgba(129, 4, 123, 0.12);
+}
+
+.tableHeadItem {
+  font-size: 19px;
+  font-weight: 500;
+  padding: 7px 5px;
+}
+
+.tableItem {
+  font-size: 17px;
+  font-weight: 400;
+  padding: 7px 5px;
+}
