@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import s from './FriendListItem.module.css';
 import userPhoto from '../../../user-photo.png';
 
-function FriendListItem({ avatar = userPhoto, name, isOnline }) {
+function FriendListItem({ avatar, name, isOnline }) {
   return (
     <li className={s.item}>
       {isOnline ? (
@@ -16,6 +16,10 @@ function FriendListItem({ avatar = userPhoto, name, isOnline }) {
     </li>
   );
 }
+
+FriendListItem.defaultProps = {
+  avatar: userPhoto,
+};
 
 FriendListItem.propTypes = {
   avatar: PropTypes.string.isRequired,

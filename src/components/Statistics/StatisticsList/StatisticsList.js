@@ -17,7 +17,12 @@ function StatisticsList({ title, stats }) {
 }
 
 StatisticsList.propTypes = {
-  stats: PropTypes.arrayOf(PropTypes.shape),
+  title: PropTypes.string,
+  stats: PropTypes.arrayOf(
+    PropTypes.shape({
+      id: PropTypes.string.isRequired,
+    }),
+  ),
 };
 
 export default StatisticsList;
