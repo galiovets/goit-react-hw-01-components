@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "//galiovets.github.io/goit-react-hw-01-components/static/css/main.1824a094.chunk.css",
-    "main.js": "//galiovets.github.io/goit-react-hw-01-components/static/js/main.de206682.chunk.js",
-    "main.js.map": "//galiovets.github.io/goit-react-hw-01-components/static/js/main.de206682.chunk.js.map",
+    "main.css": "//galiovets.github.io/goit-react-hw-01-components/static/css/main.61292fc1.chunk.css",
+    "main.js": "//galiovets.github.io/goit-react-hw-01-components/static/js/main.e7cbf368.chunk.js",
+    "main.js.map": "//galiovets.github.io/goit-react-hw-01-components/static/js/main.e7cbf368.chunk.js.map",
     "runtime-main.js": "//galiovets.github.io/goit-react-hw-01-components/static/js/runtime-main.c31b4286.js",
     "runtime-main.js.map": "//galiovets.github.io/goit-react-hw-01-components/static/js/runtime-main.c31b4286.js.map",
     "static/css/2.bc922b9c.chunk.css": "//galiovets.github.io/goit-react-hw-01-components/static/css/2.bc922b9c.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.dbaac697.chunk.js.map": "//galiovets.github.io/goit-react-hw-01-components/static/js/2.dbaac697.chunk.js.map",
     "index.html": "//galiovets.github.io/goit-react-hw-01-components/index.html",
     "static/css/2.bc922b9c.chunk.css.map": "//galiovets.github.io/goit-react-hw-01-components/static/css/2.bc922b9c.chunk.css.map",
-    "static/css/main.1824a094.chunk.css.map": "//galiovets.github.io/goit-react-hw-01-components/static/css/main.1824a094.chunk.css.map",
+    "static/css/main.61292fc1.chunk.css.map": "//galiovets.github.io/goit-react-hw-01-components/static/css/main.61292fc1.chunk.css.map",
     "static/js/2.dbaac697.chunk.js.LICENSE.txt": "//galiovets.github.io/goit-react-hw-01-components/static/js/2.dbaac697.chunk.js.LICENSE.txt",
     "static/media/user-photo.c6b9adcf.png": "//galiovets.github.io/goit-react-hw-01-components/static/media/user-photo.c6b9adcf.png"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.c31b4286.js",
     "static/css/2.bc922b9c.chunk.css",
     "static/js/2.dbaac697.chunk.js",
-    "static/css/main.1824a094.chunk.css",
-    "static/js/main.de206682.chunk.js"
+    "static/css/main.61292fc1.chunk.css",
+    "static/js/main.e7cbf368.chunk.js"
   ]
 }
